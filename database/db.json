@@ -1,0 +1,366 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "lhehir0@youtu.be",
+      "username": "lhehir0"
+    },
+    {
+      "id": 2,
+      "email": "gwolstenholme1@eepurl.com",
+      "username": "gwolstenholme1"
+    },
+    {
+      "id": 3,
+      "email": "cbumford2@fastcompany.com",
+      "username": "cbumford2"
+    },
+    {
+      "id": 4,
+      "email": "dbarajas3@usatoday.com",
+      "username": "dbarajas3"
+    },
+    {
+      "id": 5,
+      "email": "apecey4@sphinn.com",
+      "username": "apecey4"
+    },
+    {
+      "id": 6,
+      "email": "ncastellini5@myspace.com",
+      "username": "ncastellini5"
+    },
+    {
+      "id": 7,
+      "email": "wbritland6@msu.edu",
+      "username": "wbritland6"
+    },
+    {
+      "id": 8,
+      "email": "hhovert7@geocities.com",
+      "username": "hhovert7"
+    },
+    {
+      "id": 9,
+      "email": "mnesbit8@washingtonpost.com",
+      "username": "mnesbit8"
+    },
+    {
+      "id": 10,
+      "email": "prentelll9@addthis.com",
+      "username": "prentelll9"
+    },
+    {
+      "id": 11,
+      "email": "jmorada@netscape.com",
+      "username": "jmorada"
+    },
+    {
+      "id": 12,
+      "email": "woverstreetb@livejournal.com",
+      "username": "woverstreetb"
+    },
+    {
+      "id": 13,
+      "email": "eyanukhinc@nationalgeographic.com",
+      "username": "eyanukhinc"
+    },
+    {
+      "id": 14,
+      "email": "kgurneed@amazon.com",
+      "username": "kgurneed"
+    },
+    {
+      "id": 15,
+      "email": "bstouthere@washington.edu",
+      "username": "bstouthere"
+    },
+    {
+      "id": 16,
+      "email": "emiddisf@twitter.com",
+      "username": "emiddisf"
+    },
+    {
+      "id": 17,
+      "email": "enickleng@blogs.com",
+      "username": "enickleng"
+    },
+    {
+      "id": 18,
+      "email": "dstockdaleh@i2i.jp",
+      "username": "dstockdaleh"
+    },
+    {
+      "id": 19,
+      "email": "jlegani@wordpress.org",
+      "username": "jlegani"
+    },
+    {
+      "id": 20,
+      "email": "bbortolottij@paginegialle.it",
+      "username": "bbortolottij"
+    },
+    {
+      "id": 21,
+      "email": "smudgek@bloglines.com",
+      "username": "smudgek"
+    },
+    {
+      "id": 22,
+      "email": "llambal@rediff.com",
+      "username": "llambal"
+    },
+    {
+      "id": 23,
+      "email": "ghutchensm@instagram.com",
+      "username": "ghutchensm"
+    },
+    {
+      "id": 24,
+      "email": "cgheraldin@dedecms.com",
+      "username": "cgheraldin"
+    },
+    {
+      "id": 25,
+      "email": "hcouveto@miibeian.gov.cn",
+      "username": "hcouveto"
+    },
+    {
+      "id": 26,
+      "email": "vklempsp@zdnet.com",
+      "username": "vklempsp"
+    },
+    {
+      "id": 27,
+      "email": "kmouldq@webs.com",
+      "username": "kmouldq"
+    },
+    {
+      "id": 28,
+      "email": "bmowsonr@sciencedirect.com",
+      "username": "bmowsonr"
+    },
+    {
+      "id": 29,
+      "email": "awhitehursts@bluehost.com",
+      "username": "awhitehursts"
+    },
+    {
+      "id": 30,
+      "email": "jwrightont@mac.com",
+      "username": "jwrightont"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": 1,
+      "first_name": "Lew",
+      "last_name": "Hehir",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 2,
+      "first_name": "Gilberta",
+      "last_name": "Wolstenholme",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 3,
+      "first_name": "Cornelia",
+      "last_name": "Bumford",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 4,
+      "first_name": "Daniella",
+      "last_name": "Barajas",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 5,
+      "first_name": "Amberly",
+      "last_name": "Pecey",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 6,
+      "first_name": "Noni",
+      "last_name": "Castellini",
+      "avatar": null,
+      "job_title": "Senior Developer"
+    },
+    {
+      "userId": 7,
+      "first_name": "Webb",
+      "last_name": "Britland",
+      "avatar": null,
+      "job_title": "Occupational Therapist"
+    },
+    {
+      "userId": 8,
+      "first_name": "Homer",
+      "last_name": "Hovert",
+      "avatar": null,
+      "job_title": "Editor"
+    },
+    {
+      "userId": 9,
+      "first_name": "Mellie",
+      "last_name": "Nesbit",
+      "avatar": "https://robohash.org/siteadicta.png?size=50x50&set=set1",
+      "job_title": "Paralegal"
+    },
+    {
+      "userId": 10,
+      "first_name": "Phedra",
+      "last_name": "Rentelll",
+      "avatar": null,
+      "job_title": "Nuclear Power Engineer"
+    },
+    {
+      "userId": 11,
+      "first_name": "Jillie",
+      "last_name": "Morad",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 12,
+      "first_name": "Willi",
+      "last_name": "Overstreet",
+      "avatar": "https://robohash.org/repellatessedelectus.png?size=50x50&set=set1",
+      "job_title": null
+    },
+    {
+      "userId": 13,
+      "first_name": "Ethelred",
+      "last_name": "Yanukhin",
+      "avatar": "https://robohash.org/minimasapientenecessitatibus.png?size=50x50&set=set1",
+      "job_title": null
+    },
+    {
+      "userId": 14,
+      "first_name": "Kimball",
+      "last_name": "Gurnee",
+      "avatar": null,
+      "job_title": "Executive Secretary"
+    },
+    {
+      "userId": 15,
+      "first_name": "Beatrice",
+      "last_name": "Stouther",
+      "avatar": null,
+      "job_title": "Social Worker"
+    },
+    {
+      "userId": 16,
+      "first_name": "Elden",
+      "last_name": "Middis",
+      "avatar": null,
+      "job_title": "Nurse"
+    },
+    {
+      "userId": 17,
+      "first_name": "Elora",
+      "last_name": "Nicklen",
+      "avatar": null,
+      "job_title": "Physical Therapy Assistant"
+    },
+    {
+      "userId": 18,
+      "first_name": "Dorri",
+      "last_name": "Stockdale",
+      "avatar": null,
+      "job_title": "Civil Engineer"
+    },
+    {
+      "userId": 19,
+      "first_name": "Jarad",
+      "last_name": "Legan",
+      "avatar": "https://robohash.org/accusamusquiconsectetur.png?size=50x50&set=set1",
+      "job_title": null
+    },
+    {
+      "userId": 20,
+      "first_name": "Barbabas",
+      "last_name": "Bortolotti",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 21,
+      "first_name": "Sullivan",
+      "last_name": "Mudge",
+      "avatar": null,
+      "job_title": "Systems Administrator II"
+    },
+    {
+      "userId": 22,
+      "first_name": "Luciana",
+      "last_name": "Lamba",
+      "avatar": null,
+      "job_title": "Product Engineer"
+    },
+    {
+      "userId": 23,
+      "first_name": "Greggory",
+      "last_name": "Hutchens",
+      "avatar": "https://robohash.org/possimusutvitae.png?size=50x50&set=set1",
+      "job_title": "Senior Cost Accountant"
+    },
+    {
+      "userId": 24,
+      "first_name": "Carmela",
+      "last_name": "Gheraldi",
+      "avatar": "https://robohash.org/dolorumdelectusqui.png?size=50x50&set=set1",
+      "job_title": "Software Test Engineer IV"
+    },
+    {
+      "userId": 25,
+      "first_name": "Hildegarde",
+      "last_name": "Couvet",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 26,
+      "first_name": "Vinnie",
+      "last_name": "Klemps",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 27,
+      "first_name": "Keslie",
+      "last_name": "Mould",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 28,
+      "first_name": "Bella",
+      "last_name": "Mowson",
+      "avatar": null,
+      "job_title": null
+    },
+    {
+      "userId": 29,
+      "first_name": "Arline",
+      "last_name": "Whitehurst",
+      "avatar": "https://robohash.org/autetsint.png?size=50x50&set=set1",
+      "job_title": "Administrative Assistant III"
+    },
+    {
+      "userId": 30,
+      "first_name": "Joellyn",
+      "last_name": "Wrighton",
+      "avatar": "https://robohash.org/dolorereiciendiseos.png?size=50x50&set=set1",
+      "job_title": null
+    }
+  ]
+}
