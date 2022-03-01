@@ -2,7 +2,7 @@
 
 ### Overview
 
-I aim of this task is to create a user profile table with pagination and sorting capabilities using the [Vue.js](https://vuejs.org) JavaScript framework. The full list of requirements are shown below.
+I aim with this task to create a user profile table with pagination and sorting capabilities using the [Vue.js](https://vuejs.org) JavaScript framework.
 
 The data required to populate the table is served by a mock API when the project is running - see [the API documentation](./API_DOCS.md) for further details.
 
@@ -23,7 +23,7 @@ Additionally the table:
 - Must be paginated.
 - Must show a maximum of 8 users per page.
 - Should be sortable based on the "First Name", "Last Name" and "Username" columns, in ascending and descending order.
-  Search for users by full name using a text input.
+- Search for users by full name using a text input.
 
 ### Future features
 
